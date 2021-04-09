@@ -6,8 +6,10 @@
 
 ---
 
-- ⚡ I'm currently learning everything 🤣
+- 📫 How to reach me guga.santospadilha
+- 🌱 I'm currently learning everything 🤣
 - ⚡ Fun fact : I love to travel and play in my spare time 
+- 🔭 I'm currently learning Flutter
 
 ### Spotify Playing 🎧
 
