@@ -6,7 +6,7 @@
 
 ---
 
-- 📫 How to reach me guga.santospadilha
+- 📫 How to reach me luandesouza2001@rede.ulbra.br
 - 🌱 I'm currently learning everything 🤣
 - ⚡ Fun fact : I love to travel and play in my spare time 
 - 🔭 I'm currently learning Flutter
