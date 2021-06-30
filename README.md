@@ -9,7 +9,7 @@
 - 📫 How to reach me luandesouza2001@rede.ulbra.br
 - 🌱 I'm currently learning everything 🤣
 - ⚡ Fun fact : I love to travel and play in my spare time 
-- 🔭 I'm currently learning Flutter
+- 🔭 I'm currently learning JavaScript
 
 ### Spotify Playing 🎧
 
