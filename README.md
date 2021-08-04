@@ -11,10 +11,6 @@
 - ⚡ Fun fact : I love to travel and play in my spare time 
 - 🔭 I'm currently learning JavaScript
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="LuanSouza Spotify Playing" width="350" />](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q)
-
 ### Connect with me:
 
 [<img align="left" alt="LuanSouza | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
