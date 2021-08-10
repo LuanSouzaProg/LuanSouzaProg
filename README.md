@@ -1,6 +1,6 @@
 ### Hi there, I'm Luan de Souza - 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/LuanSouza?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLuanSouza&screen_name=LuanzinhooXXT)
+https://camo.githubusercontent.com/68afc33660a11425f5760ae8d9103d3cc34818a5b8362c3d26b44da6653ba609/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6e6174616e76616c696d636172646f736f266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
 
 ### I am a systems development student in Brazil!!
 
