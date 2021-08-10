@@ -6,10 +6,12 @@
 
 ---
 
-- 📫 How to reach me luandesouza2001@rede.ulbra.br
-- 🌱 I'm currently learning everything 🤣
-- ⚡ Fun fact : I love to travel and play in my spare time 
-- 🔭 I'm currently learning JavaScript
+- 📫 How to reach me luandesouza2001@rede.ulbra.br;
+- 🌱 I'm currently learning everything 🤣;
+- ⚡ I'm currently learning JavaScript;
+- 🔭 I'm always looking for new things to learn;
+- 👯 I’m looking to collaborate with other creators developers;
+- 🥅 2021 Goals: Contribute more to Open Source projects;
 
 **Contacts:**  
 <div>
