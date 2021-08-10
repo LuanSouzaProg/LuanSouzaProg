@@ -32,6 +32,15 @@
 
 ---
 
+<p align="center"> 📈 My GitHub Stats 📉 </p>
+
+<br />
+<br />
+
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LuanSouzaProg&show_icons=true&theme=gotham" alt="luan" />
+<br />
+<br />
+
 
 
 [twitter]: https://twitter.com/LuanzinhooXXT
