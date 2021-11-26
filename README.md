@@ -8,7 +8,7 @@
 
 - 📫 How to reach me luandesouza2001@rede.ulbra.br;
 - 🌱 I'm currently learning everything 🤣;
-- ⚡ I'm currently learning Dart && Flutter;
+- ⚡ I'm currently learning Dart / Flutter;
 - 🔭 I'm always looking for new things to learn;
 - 👯 I’m looking to collaborate with other creators developers;
 - 🥅 2021 Goals: Contribute more to Open Source projects;
