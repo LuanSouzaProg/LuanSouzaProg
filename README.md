@@ -11,7 +11,7 @@
 - ⚡ I'm currently learning Dart / Flutter;
 - 🔭 I'm always looking for new things to learn;
 - 👯 I’m looking to collaborate with other creators developers;
-- 🥅 2021 Goals: Contribute more to Open Source projects;
+- 🥅 2022 Goals: Contribute more to Open Source projects;
 
 **Contacts:**  
 <div>
