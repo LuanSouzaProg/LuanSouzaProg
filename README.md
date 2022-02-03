@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuanSouzaProg&label=Profile%20views&color=0e75b6&style=flat" alt="luan" /> </p>
 
-### I am a systems development student in Brazil!
+### I am a systems development student in Brazil!!
 
 ---
 
